@@ -6,7 +6,7 @@ const Menu = [
     category: "breakfast",
     price: "12₹",
     description:
-      "I love Maggi realy oo yues  Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Thepla is a popular Indian flatbread that originated in the western state of Gujarat. It is a type of paratha or roti made from a dough consisting of whole wheat flour, yogurt, and spices. The dough is typically flavored with ingredients such as turmeric, chili powder, coriander, cumin, and garlic, giving Thepla its distinct and delicious taste. ",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const Menu = [
     category: "breakfast",
     price: "10₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Gathiya is a popular savory snack that originated in the Indian state of Gujarat. It is made from besan (gram flour) and is known for its crispy and crunchy texture. Gathiya is typically seasoned with various spices, making it a flavorful and addictive snack. ",
   },
 
   {
@@ -25,7 +25,7 @@ const Menu = [
     category: "evening",
     price: "20₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Chole Bhature is a popular North Indian dish that consists of two main components: chole, which are spiced chickpeas, and bhature, which are deep-fried bread. It is a delicious and filling combination that is often enjoyed as a breakfast or lunch dish. ",
   },
  
   {
@@ -35,7 +35,7 @@ const Menu = [
     category: "lunch",
     price: "50₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Jira Rais, also known as Jira Rice or Jeera Rice is a popular Indian rice dish that is flavored with cumin seeds. It is a simple and aromatic preparation that is commonly enjoyed as a side dish with various Indian curries, dals, or gravies. ",
   },
   {
     id: 5,
@@ -44,7 +44,7 @@ const Menu = [
     category: "evening",
     price: "80₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Pizza is a beloved Italian dish that has become popular worldwide. It consists of a round, flat dough base topped with various ingredients and baked in an oven. Pizza is known for its delicious combination of flavors, melted cheese, and crispy crust. ",
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const Menu = [
     category: "dinner",
     price: "180₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Punjabi cuisine is a vibrant and flavorsome culinary tradition that originates from the Punjab region of India and Pakistan. It is known for its rich and hearty dishes that showcase a harmonious blend of spices, herbs, dairy products, and staple ingredients like wheat, rice, and lentils. ",
   },
   {
     id: 7,
@@ -62,7 +62,7 @@ const Menu = [
     category: "dinner",
     price: "60₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Dosa is a popular South Indian dish that has gained worldwide popularity. It is a thin and crispy pancake-like creation made from fermented rice and lentil batter. Dosa is not only delicious but also known for its versatility as it can be enjoyed as a breakfast item, snack, or even as a main course. ",
   },
   {
     id: 8,
@@ -71,7 +71,7 @@ const Menu = [
     category: "lunch",
     price: "60₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Sak Rotli consists of small, bite-sized rotis or flatbreads that are typically stuffed with a flavorful mixture of spices and herbs. The dough for the roti is prepared using whole wheat flour, water, and a pinch of salt. It is then rolled out into small circles or discs. ",
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ const Menu = [
     category: "evening",
     price: "10₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Samosa is a popular Indian appetizer or snack that has become popular worldwide. It is a triangular-shaped pastry filled with a savory mixture of spiced potatoes, peas, and sometimes other ingredients. Samosas are known for their crispy exterior and flavorful filling. ",
   },
   {
     id: 10,
@@ -89,7 +89,7 @@ const Menu = [
     category: "cold drink",
     price: "180₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Right from our inception, we have focused on the highest standards in quality that address customer satisfaction and regulatory compliance. We believe in continuously improving our products based on feedback from our customers. ",
   },
   {
     id: 11,
@@ -98,7 +98,7 @@ const Menu = [
     category: "cold drink",
     price: "180₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Thums Up is a popular carbonated soft drink that originated in India. It is known for its strong and bold flavor, which sets it apart from other cola brands. Thums Up has a unique taste profile, with a blend of spices and a hint of citrus, giving it a distinct and robust flavor. ",
   },
   {
     id: 12,
@@ -107,7 +107,7 @@ const Menu = [
     category: "cold drink",
     price: "180₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Coca-Cola is known for its signature cola flavor, which is a harmonious blend of sweetness and acidity. It has a refreshing and effervescent quality, with a balance of caramel notes and a hint of citrus. The exact recipe and formula of Coca-Cola are closely guarded secrets, contributing to its unique and consistent taste. ",
   },
 ];
 
