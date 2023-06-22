@@ -219,3 +219,29 @@ html {
   opacity: 1;
   transform: translatey(-2px);
 }
+/** title **/
+.title{
+	font-size: 50px;
+	font-weigh: bold;
+	text-align: center;
+	color: orange;
+	animation: move 2s 3;
+	position: relative;
+}
+@keyframes move{
+	0%{top:0px;}
+	50%{top:20px;}
+	100%{top:0px;}
+}
+
+
+/** footer **/
+.footer
+{
+  margin-top: 10px;
+   padding : 20px;
+  color: white;
+  background-color: black; 
+  font-size: 1.4em;
+  text-align: center;
+}
